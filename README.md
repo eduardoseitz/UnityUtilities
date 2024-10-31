@@ -1,5 +1,5 @@
 # Unity Utilities by DevPenguin
- Several scrips, libraries and setting to jump start your development wiith unity, including a Admob manager, One Signnal menager, Post Processing settings, Save Controller, Localization Controller and other tools. 
+ Several scrips, libraries and setting to jump start your development with unity. Including a Admob manager, One Signal manager, Post Processing settings, Save Controller, Localization Controller and other tools.
 
 # How to use
  Copy and paste the whole class you need into a new c# with the same name. 
